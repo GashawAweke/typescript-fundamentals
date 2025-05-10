@@ -1,4 +1,1 @@
-let awesomeName: String = 'Nexterize';
-awesomeName = 'effoy';
-awesomeName = awesomeName.toUpperCase();
-console.log(awesomeName);
+function processData(input: string | number, config: false | true = false) {}
